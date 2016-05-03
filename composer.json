@@ -1,0 +1,6 @@
+{
+    "name": "johanospina/gravity",
+    "type": "wordpress-plugin",
+	"require": {"composer/installs":"v1.0.25"}
+  
+}
